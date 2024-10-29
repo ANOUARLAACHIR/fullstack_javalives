@@ -1,6 +1,6 @@
 package com.codewa.live02;
 
-public class DataTypes {
+public class PrimitiveDataTypes {
     public static void main(String[] args) {
         //in java we have 8 primitive data types
         //char, byte, short, int, long, float, double and boolean
